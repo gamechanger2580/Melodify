@@ -18,24 +18,16 @@ Select Themes for Songs: Add a unique theme while uploading songs to enhance the
 
 # 📸 Screenshots<br>
 
-🔓 Sign In & Login In <br> 
-<p align="center"> <img src="https://github.com/user-attachments/assets/c5369fbf-294d-4eba-8cff-477aabd38a87" width="300" alt="Login" /> <img src="https://github.com/user-attachments/assets/d6089442-b4e7-424e-babd-549e26fbaaa3" width="300" alt="Login 2" /> </p>
-<br>
-
-🏠Home Page:<br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="300" alt="Home Page 1" /> <img src="https://github.com/user-attachments/assets/740919d4-1e46-4a23-9da8-9be1025df48e" width="300" alt="Home Page 2" /> </p>
-</p>
-
-<br>
-🏠 Music Player:<br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e" width="300" alt="Music Player 1" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="300" alt="Music Player 2" /> </p>
-<br>
-📚 Library Page:<br> <br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191" width="300" alt="Library Page" /> <img src="https://github.com/user-attachments/assets/2dbf9926-9484-4831-bf5a-ce54f0b702fe" width="300" alt="Library Page 2" /> </p>
-
-🎧 Upload Songs:<br> <br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="300" alt="Upload Songs" /> <img src="https://github.com/user-attachments/assets/5fdded42-4a6f-438a-adc4-7e2b94ca7d73" width="300" alt="Upload Songs2" /> </p>
-<br>
+🔓 Sign In & Login
+<p align="center"> <img src="https://github.com/user-attachments/assets/c5369fbf-294d-4eba-8cff-477aabd38a87" width="250" style="margin: 10px;" alt="Login" /> <img src="https://github.com/user-attachments/assets/d6089442-b4e7-424e-babd-549e26fbaaa3" width="250" style="margin: 10px;" alt="Login 2" /> </p>
+🏠 Home Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="250" style="margin: 10px;" alt="Home Page 1" /> <img src="https://github.com/user-attachments/assets/740919d4-1e46-4a23-9da8-9be1025df48e" width="250" style="margin: 10px;" alt="Home Page 2" /> </p>
+🏠 Music Player
+<p align="center"> <img src="https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e" width="250" style="margin: 10px;" alt="Music Player 1" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="250" style="margin: 10px;" alt="Music Player 2" /> </p>
+📚 Library Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191" width="250" style="margin: 10px;" alt="Library Page" /> <img src="https://github.com/user-attachments/assets/2dbf9926-9484-4831-bf5a-ce54f0b702fe" width="250" style="margin: 10px;" alt="Library Page 2" /> </p>
+🎧 Upload Songs
+<p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="250" style="margin: 10px;" alt="Upload Songs" /> <img src="https://github.com/user-attachments/assets/5fdded42-4a6f-438a-adc4-7e2b94ca7d73" width="250" style="margin: 10px;" alt="Upload Songs 2" /> </p>
 
 # 🛠️ Configuration <br>
 PostgreSQL Setup <br>
