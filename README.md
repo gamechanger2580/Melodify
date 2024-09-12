@@ -18,12 +18,10 @@ Select Themes for Songs: Add a unique theme while uploading songs to enhance the
 
 # 📸 Screenshots<br>
 Home Page:<br>
-Home Page:
 <p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="300" alt="Home Page" /> </p>
 <br>
-Music Player: <br>
-![flutter_02](https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e)
-![flutter_03](https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5)
+Music Player:<br>
+<p align="center"> <img src="https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e" width="300" alt="Music Player 1" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="300" alt="Music Player 2" /> </p>
 <br>
 Library Page: <br>
 ![flutter_04](https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191)
