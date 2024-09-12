@@ -16,6 +16,19 @@ Create Playlists: Organize your music into personalized playlists.<br>
 View Library: Browse through your music library with ease.<br>
 Select Themes for Songs: Add a unique theme while uploading songs to enhance the visual experience.<br>
 
+# 📸 Screenshots<br>
+Home Page:<br>
+![flutter_01](https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce)
+<br>
+Music Player: <br>
+![flutter_02](https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e)
+![flutter_03](https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5)
+<br>
+Library Page: <br>
+![flutter_04](https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191)
+
+
+<br>
 # 🛠️ Configuration
 PostgreSQL Setup <br>
 Make sure you have PostgreSQL installed locally and running. <br>
