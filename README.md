@@ -18,7 +18,8 @@ Select Themes for Songs: Add a unique theme while uploading songs to enhance the
 
 # 📸 Screenshots<br>
 Home Page:<br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="300" alt="Home Page 1" /> <img src="https://github.com/user-attachments/assets/a352481e-468b-45c6-9ae4-e04cb94abcd3" width="300" alt="Home Page 2" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="300" alt="Home Page 1" /> <img src="https://github.com/user-attachments/assets/740919d4-1e46-4a23-9da8-9be1025df48e" width="300" alt="Home Page 2" /> </p>
+</p>
 
 <br>
 Music Player:<br>
