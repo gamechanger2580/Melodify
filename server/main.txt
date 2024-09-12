@@ -1,0 +1,22 @@
+# this is for server making 
+# in this create_engine our postgre url will go
+# Starting point of sqlalchemy app to connect db
+# the sessionmaker() help in creating session when called
+# if autcommit was true then each change would have been a commited which would have been made difficult for us
+# but if it is false we use session.commit()
+# with autoflush as false sqlalchemy will unitl flush is called and will not send changes to DB till then
+# by this bind it will tell that alchemy have to use only that engine only
+# now with sessionLocal() we have access to db
+# this is how we defined our user signUp schema for now
+# we dont need to go and make schema using pgadmin sqlalchemy will do that for us
+# declarative base combines a metadata container and a mapper that maps our class to a database table
+# 1st check if the user already exist in db
+# this is to check
+# if yes then tell the user that it exist and just signIn
+# hashing the password (as in class User pass is of LargeBinary so hashing will convert it into that)
+# salt is random piece of data to create a unique hash and stored along with hashed password, it ensures there is no conflict if there are more than one similar password as it will be given a different salt
+# else add the user to the db
+# take everything from user like this and store in db.add
+# pass just avoids indentation error
+# refresh all the db
+# refresh() methods are used in those cases when one wants to force an object to re-load its data from the database

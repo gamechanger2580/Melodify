@@ -1,0 +1,27 @@
+- using PostgreSQL for database (install pgadmin to see dbs in an organised format to make dev faster)
+- using fastapi for backend
+- hive for local datastorage 
+- riverpod for statemanagement
+- flutter for frontend
+
+- in client side (we will use flutter)
+- in server side (we will use fastapi)
+
+- here we are doing feature wise development therefore every feature will have its own model,view and view model files
+
+MVVM Architecture:
+- Model: - Contain all business logic
+         - Manages Data fetching and manipulation
+         - These are services or data classes which manages data fetching and manipulation.
+
+- View: - Contain all UI related code
+        - Manages UI rendering and interaction
+        - These are widgets which manages UI rendering and interaction.
+
+- View-Model
+    - Acts as an intermediary between Model and View
+    - Manages data binding and state management
+    - These are classes which manages data binding and state management.
+    - Fetching or requesting model to fetch data to view-model and view-model gives it to view 
+    - It will determine what phase will the View be in.
+
