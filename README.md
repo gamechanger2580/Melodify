@@ -1,4 +1,4 @@
-🎶 Melodify
+# 🎶 Melodify <br>
 Melodify is a feature-rich music application that allows users to upload, listen to, and manage their songs in a smooth and enjoyable environment. Built with a modern tech stack and structured using the MVVM architecture, the app provides a seamless user experience for music lovers.
 
 💻 Tech Stack
