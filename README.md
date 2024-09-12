@@ -22,14 +22,15 @@ Home Page:<br>
 </p>
 
 <br>
-Music Player:<br>
+🏠 Music Player:<br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e" width="300" alt="Music Player 1" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="300" alt="Music Player 2" /> </p>
 <br>
-Library Page: <br>
+📚 Library Page: <br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191" width="300" alt="Library Page" /> <img src="https://github.com/user-attachments/assets/2dbf9926-9484-4831-bf5a-ce54f0b702fe" width="300" alt="Library Page 2" /> </p>
 
-Upload Songs:<br>
-<p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="300" alt="Upload Songs" /> </p>
+🎧 Upload Songs:<br>
+<p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="300" alt="Upload Songs" /> <img src="https://github.com/user-attachments/assets/5fdded42-4a6f-438a-adc4-7e2b94ca7d73" width="300" alt="Upload Songs2" /> </p>
+<br>
 
 <br>
 # 🛠️ Configuration
