@@ -33,7 +33,7 @@ Home Page:<br>
 <br>
 
 <br>
-# 🛠️ Configuration
+# 🛠️ Configuration <br>
 PostgreSQL Setup <br>
 Make sure you have PostgreSQL installed locally and running. <br>
 
