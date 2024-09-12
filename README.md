@@ -17,15 +17,16 @@ View Library: Browse through your music library with ease.<br>
 Select Themes for Songs: Add a unique theme while uploading songs to enhance the visual experience.<br>
 
 # 📸 Screenshots<br>
-Home Page:<br>
+
+🔓 Sign In & Login In <br> 
+<p align="center"> <img src="https://github.com/user-attachments/assets/c5369fbf-294d-4eba-8cff-477aabd38a87" width="300" alt="Login" /> <img src="https://github.com/user-attachments/assets/d6089442-b4e7-424e-babd-549e26fbaaa3" width="300" alt="Login 2" /> </p>
+<br>
+
+🏠Home Page:<br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/47d8b67e-7ba1-4ae6-90b3-562dc4c06fce" width="300" alt="Home Page 1" /> <img src="https://github.com/user-attachments/assets/740919d4-1e46-4a23-9da8-9be1025df48e" width="300" alt="Home Page 2" /> </p>
 </p>
 
 <br>
-🔓 Sign In & Login In <br> 
-<p align="center"> <img src="https://github.com/user-attachments/assets/c5369fbf-294d-4eba-8cff-477aabd38a87" width="300" alt="Login" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="300" alt="Login 2" /> </p>
-
-
 🏠 Music Player:<br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/99e29563-9bc9-4c12-8bf6-8fe939b0411e" width="300" alt="Music Player 1" /> <img src="https://github.com/user-attachments/assets/c7dd41cf-305c-45ef-845c-11035d6534b5" width="300" alt="Music Player 2" /> </p>
 <br>
