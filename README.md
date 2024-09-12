@@ -29,6 +29,7 @@ Library Page: <br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/b613d72e-dd15-425a-8f82-78689f150191" width="300" alt="Library Page" /> </p>
 
 Upload Songs:<br>
+<p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="300" alt="Upload Songs" /> </p>
 
 <br>
 # 🛠️ Configuration
