@@ -15,3 +15,59 @@ Add to Favorites: Mark songs as favorites for quick access.<br>
 Create Playlists: Organize your music into personalized playlists.<br>
 View Library: Browse through your music library with ease.<br>
 Select Themes for Songs: Add a unique theme while uploading songs to enhance the visual experience.<br>
+
+# 🛠️ Configuration
+PostgreSQL Setup <br>
+Make sure you have PostgreSQL installed locally and running. <br>
+
+Create a database called musicApp.  <br>
+
+In the database.py file, update the connection string with your PostgreSQL credentials: <br>
+
+- DATABASE_URI = 'postgresql://<username>:<password>@localhost:5432/musicApp'
+- Replace <username> and <password> with your PostgreSQL credentials.
+
+Cloudinary Setup <br>
+Create an account on Cloudinary. <br>
+
+Get your Cloud Name, API Key, and API Secret from the Cloudinary Dashboard. <br>
+
+You can configure your Cloudinary credentials in the song.py file like this: <br>
+
+import cloudinary <br>
+cloudinary.config( <br>
+  cloud_name = "<your-cloud-name>", <br>
+  api_key = "<your-api-key>", <br>
+  api_secret = "<your-api-secret>"<br>
+)<br>
+Alternatively, you can store these values in a .env file: <br>
+
+Create a .env file in the root of your project: <br>
+CLOUD_NAME=<your-cloud-name> <br>
+API_KEY=<your-api-key><br>
+API_SECRET=<your-api-secret><br>
+
+Update your song.py to load these values using the dotenv package:<br>
+from dotenv import load_dotenv <br>
+import os <br>
+load_dotenv() <br>
+
+cloudinary.config( <br>
+  cloud_name = os.getenv("CLOUD_NAME"), <br>
+  api_key = os.getenv("API_KEY"), 
+  api_secret = os.getenv("API_SECRET")<br>
+)<br>
+
+# 🌟 Getting Started
+Clone the repository: <br>
+
+git clone https://github.com/yourusername/melodify.git <br>
+cd melodify<br>
+
+Install dependencies:<br>
+flutter pub get<br>
+
+Run the app: <br>
+flutter run
+
+
