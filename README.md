@@ -77,7 +77,7 @@ cloudinary.config( <br>
 # 🌟 Getting Started
 Clone the repository: <br>
 
-git clone https://github.com/yourusername/melodify.git <br>
+git clone https://github.com/gamechanger2580/Melodify.git <br>
 cd melodify<br>
 
 Install dependencies:<br>
