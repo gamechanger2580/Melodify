@@ -32,7 +32,6 @@ Home Page:<br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/398864fe-f63c-4b2c-a7ef-a612b64dc106" width="300" alt="Upload Songs" /> <img src="https://github.com/user-attachments/assets/5fdded42-4a6f-438a-adc4-7e2b94ca7d73" width="300" alt="Upload Songs2" /> </p>
 <br>
 
-<br>
 # 🛠️ Configuration <br>
 PostgreSQL Setup <br>
 Make sure you have PostgreSQL installed locally and running. <br>
